@@ -1,1 +1,1 @@
-# MIT-6.584-Distributed-System
+# MIT-6.584-Distributed-Systems
